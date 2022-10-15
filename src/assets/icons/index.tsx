@@ -1,0 +1,5 @@
+export { BackIcon } from "./BackIcon"
+export { BrushIcon } from "./BrushIcon"
+export { DownloadIcon } from "./DownloadIcon"
+export { MinusIcon } from "./MinusIcon"
+export { PlusIcon } from "./PlusIcon"

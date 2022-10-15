@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Sharp Grotesk Medium";
+    src: url("../../public/fonts/SharpGroteskMedium20.woff2") format("woff2"),
+        url("../../public/fonts/SharpGroteskMedium20.woff") format("woff"),
+        url("../../public/fonts/SharpGroteskMedium20.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sharp Sans";
+    src: url("../../public/fonts/SharpSansNo1-Medium.woff2") format("woff2"),
+        url("../../public/fonts/SharpSansNo1-Medium.woff") format("woff"),
+        url("../../public/fonts/SharpSansNo1-Medium.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
